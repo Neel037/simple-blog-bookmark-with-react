@@ -1,0 +1,145 @@
+[
+      {
+        "id": 1,
+        "title": "The Rise of Artificial Intelligence",
+        "author_img": "https://i.ibb.co/VvLNdLL/boy1.png",
+        "author": "Jane Doe",
+        "publishedDate": "2025-04-01",
+        "tags": ["AI", "Technology", "Innovation"],
+        "category": "Technology",
+        "coverImage": "https://i.ibb.co.com/GQQYJ5qB/img1.png",
+        "summary": "Explore how artificial intelligence is transforming industries and reshaping our future.",
+        "content": "Artificial Intelligence (AI) is a transformative technology shaping the future of various industries.",
+        "readingTime": 5
+      },
+      {
+        "id": 2,
+        "title": "Mastering JavaScript in 2025",
+        "author_img": "https://i.ibb.co/VvLNdLL/boy1.png",
+        "author": "John Smith",
+        "publishedDate": "2025-04-05",
+        "tags": ["JavaScript", "Programming", "Web Development"],
+        "category": "Programming",
+        "coverImage": "https://i.ibb.co.com/ktJzn36/img2.png",
+        "summary": "Discover the advanced and essential JavaScript features you need to learn this year.",
+        "content": "JavaScript continues to be one of the most important programming languages for web development.",
+        "readingTime": 8
+      },
+      {
+        "id": 3,
+        "title": "A Beginner's Guide to Quantum Computing",
+        "author_img": "https://i.ibb.co/VvLNdLL/boy1.png",
+        "author": "Emily Zhang",
+        "publishedDate": "2025-04-10",
+        "tags": ["Quantum Computing", "Tech Trends", "Beginner"],
+        "category": "Quantum Technology",
+        "coverImage": "https://i.ibb.co.com/zhSrB8Fb/img3.png",
+        "summary": "Learn the basics of quantum computing and how it stands to revolutionize computational power.",
+        "content": "Quantum computing leverages the principles of quantum mechanics to process large computations efficiently.",
+        "readingTime": 10
+      },
+      {
+        "id": 4,
+        "title": "Building Scalable Web Applications",
+        "author_img": "https://i.ibb.co/VvLNdLL/boy1.png",
+        "author": "Alex Roberts",
+        "publishedDate": "2025-03-15",
+        "tags": ["Web Development", "Scalability", "Cloud"],
+        "category": "Web Development",
+        "coverImage": "https://i.ibb.co.com/8ng9ptjQ/img4.png",
+        "summary": "Understand the principles of building scalable and robust web applications for millions of users.",
+        "content": "Scalability is critical for modern web applications handling increasing user traffic and data volumes.",
+        "readingTime": 7
+      },
+      {
+        "id": 5,
+        "title": "Top 10 Cybersecurity Practices for Developers",
+        "author_img": "https://i.ibb.co/VvLNdLL/boy1.png",
+        "author": "Sophia Davis",
+        "publishedDate": "2025-04-07",
+        "tags": ["Cybersecurity", "Programming", "Best Practices"],
+        "category": "Cybersecurity",
+        "coverImage": "https://i.ibb.co.com/Pv7Y9YHT/img5.png",
+        "summary": "Discover the best practices developers can adopt to secure applications from cyber threats.",
+        "content": "With rising cyber threats, incorporating security practices into software development is essential.",
+        "readingTime": 6
+      },
+      {
+        "id": 6,
+        "title": "The Future of 5G Technology",
+        "author_img": "https://i.ibb.co/VvLNdLL/boy1.png",
+        "author": "Michael Green",
+        "publishedDate": "2025-02-20",
+        "tags": ["5G", "Communication", "Tech Trends"],
+        "category": "Technology",
+        "coverImage": "https://i.ibb.co.com/jvJRnsLR/img6.png",
+        "summary": "Explore how 5G technology will revolutionize mobile communication and the broader connectivity landscape.",
+        "content": "5G is the next generation of mobile connectivity, offering exponentially faster data speeds and lower latency.",
+        "readingTime": 4
+      },
+      {
+        "id": 7,
+        "title": "React Performance Optimization Techniques",
+        "author_img": "https://i.ibb.co/VvLNdLL/boy1.png",
+        "author": "Chris Evans",
+        "publishedDate": "2025-03-25",
+        "tags": ["React", "Web Development", "Optimization"],
+        "category": "Programming",
+        "coverImage": "https://i.ibb.co.com/whSFnBJB/img7.png",
+        "summary": "Improve your React applications with advanced performance optimization strategies.",
+        "content": "React applications can be made more efficient using techniques like memoization, lazy loading, and virtualization.",
+        "readingTime": 9
+      },
+      {
+        "id": 8,
+        "title": "The Ethics of Artificial Intelligence",
+        "author_img": "https://i.ibb.co/VvLNdLL/boy1.png",
+        "author": "Sarah Connor",
+        "publishedDate": "2025-04-02",
+        "tags": ["AI", "Ethics", "Technology"],
+        "category": "Ethics & Technology",
+        "coverImage": "https://i.ibb.co.com/xKG9LrGv/img8.png",
+        "summary": "Discuss the ethical challenges and considerations of AI development and deployment.",
+        "content": "As AI technology advances, it's crucial to address ethical concerns, such as bias, fairness, and accountability.",
+        "readingTime": 6
+      },
+      {
+        "id": 9,
+        "title": "Beginner's Guide to Data Science",
+        "author_img": "https://i.ibb.co/VvLNdLL/boy1.png",
+        "author": "Maria Perez",
+        "publishedDate": "2025-04-08",
+        "tags": ["Data Science", "Python", "Beginner"],
+        "category": "Data Analytics",
+        "coverImage": "https://i.ibb.co.com/F4XLrT9k/img9.png",
+        "summary": "Learn how to get started with data science, including concepts and tools for beginners.",
+        "content": "Data science is transforming business decision-making by providing actionable insights from complex datasets.",
+        "readingTime": 8
+      },
+      {
+        "id": 10,
+        "title": "Exploring Virtual Reality in Gaming",
+        "author_img": "https://i.ibb.co/VvLNdLL/boy1.png",
+        "author": "Tom Carter",
+        "publishedDate": "2025-04-12",
+        "tags": ["VR", "Gaming", "Immersive Tech"],
+        "category": "Gaming",
+        "coverImage": "https://i.ibb.co.com/r2YxZ0S4/img10.png",
+        "summary": "Dive into the advancements in virtual reality gaming and its impact on the industry.",
+        "content": "Virtual reality is redefining gaming by delivering immersive experiences with advanced haptic feedback and visuals.",
+        "readingTime": 7
+      }
+    ]
+
+
+  
+
+
+
+
+
+
+
+
+
+  
